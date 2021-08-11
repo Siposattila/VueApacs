@@ -1,4 +1,4 @@
-# apacs
+# VueApacs
 
 ## Project setup
 ```
